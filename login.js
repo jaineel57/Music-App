@@ -21,7 +21,7 @@ export default class login extends React.Component {
         render(){
 return (
         <ImageBackground
-        style={{ flex: 1,opacity:0.95}}
+        style={{ flex: 1,opacity:0.96}}
         source={{
           uri:
             'https://wallpapertag.com/wallpaper/full/9/2/f/751297-new-good-mac-backgrounds-2560x1600-ipad-pro.jpg',

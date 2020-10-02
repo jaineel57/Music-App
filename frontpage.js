@@ -29,7 +29,7 @@ return (
 <View style={{flex:1,justifyContent:'center',alignItems:'center',paddingHorizontal:50}} >
 <View>
 <Image source={{uri:'https://i.pinimg.com/originals/5c/c7/70/5cc7702abc7c46969efc48d5d4cdf2d7.png'}}
-      style={{width:200, height:250,marginVertical:20}} />
+      style={{width:200, height:250,marginVertical:19}} />
 </View> 
 <View>
 <Text style={{fontStyle:"italic",margin:15,fontWeight:"bold",fontSize:40}}> UPBEAT </Text>
